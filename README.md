@@ -4,10 +4,9 @@ For 21 weeks there will appear olympiad programming task that I should solve unt
 All the results will be written every week in **Log.md**  
   
 ***If you want to join:***
-1. Fork the repo
+1. [Fork the repo](https://guides.github.com/activities/forking/)
 2. Clone it
 3. Create your folder
   * Create *Log.md* in it
-  * Create new folders every week and upload your solutions for current week in it  
-(how to fork: https://guides.github.com/activities/forking/)
+  * Create new folders every week and upload your solutions for current week in it
   
