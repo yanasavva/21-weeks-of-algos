@@ -9,4 +9,5 @@ All the results will be written every week in **Log.md**
 3. Create your folder
   * Create *Log.md* in it
   * Create new folders every week and upload your solutions for current week in it
+(how to fork: https://guides.github.com/activities/forking/)
   
