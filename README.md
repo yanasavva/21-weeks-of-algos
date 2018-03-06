@@ -7,7 +7,7 @@ All the results will be written every week in **Log.md**
 1. [Fork the repo](https://guides.github.com/activities/forking/)
 2. Clone it
 3. Create your folder
-  * Create *Log.md* in it
+  * Create *Log.md* in it ([example](https://github.com/pskliff/21-weeks-of-algos/blob/master/pskliff/Log.md))
   * Create new folders every week and upload your solutions for current week in it  
   
 
