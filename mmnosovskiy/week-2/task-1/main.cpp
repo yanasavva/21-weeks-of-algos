@@ -94,4 +94,3 @@ void make_spiral_neven(int** arr, int n, int offset, int &largest)
     for (int k = 0; k < n - 2 * offset - 2; ++k)
         arr[i--][j] = largest--;
 }
-
