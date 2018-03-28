@@ -70,6 +70,9 @@ int main(){
             if (!assign_groups(n, i))
             {
                 fout << -1;
+                delete[] group;
+                for (int l = 0; l < n; ++l)
+                    delete[] adj[l];
                 return 0;
             } else cur_group = !cur_group;
         }
@@ -86,6 +89,9 @@ int main(){
         fout << k + 1 << " ";
     }
 
+    delete[] group;
+    for (int l = 0; l < n; ++l)
+        delete[] adj[l];
 
 
     return 0;
