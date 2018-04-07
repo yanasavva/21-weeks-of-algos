@@ -21,6 +21,6 @@ Link to work: [week4](https://github.com/yanasavva/21-weeks-of-algos/tree/master
 
 Week's Progress: 9/9 tasks done
 
-Thoughts: covered lists, "find word in a grid" task done with hints 
+Thoughts: covered **lists**, "find word in a grid" task done with hints 
 
 Link to work: [week5](https://github.com/yanasavva/21-weeks-of-algos/tree/master/yanasavva/week5)
