@@ -9,19 +9,19 @@ int main() {
 
     ifstream fin;
     fin.open("input.txt");
-    int n,k;
+    long n,k;
     fin >> n >> k;
     vector<int> a1(n);
     vector<int> a2(k);
 
-    for (int i = 0; i < n; ++i) {
+    for (long i = 0; i < n; ++i) {
         fin >> a1[i];
     }
-    for (int i = 0; i < k; ++i) {
+    for (long i = 0; i < k; ++i) {
         fin >> a2[i];
     }
 
-    for (int i = 0; i < k; ++i) {
+    for (long i = 0; i < k; ++i) {
         int left = 0, right = n - 1;
         int ind = 0;
         while (right - left > 1)
